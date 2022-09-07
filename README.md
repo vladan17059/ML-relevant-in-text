@@ -27,7 +27,7 @@ it's interpretability is (intuitively) superior - thanks to **word2vec** and the
 
 
 ---
-## Environment end tools:
+## Environment and tools:
 
 This project is built in `jupyter notebook`.
 Libraries used: 
