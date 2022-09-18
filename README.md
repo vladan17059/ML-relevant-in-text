@@ -64,7 +64,7 @@ Note: images don't show on github because of `\`.
     * testing LRP 
 - ### 05 - SVM vs CNN
     * comparing our SVM and CNN models in terms of classification scores
-    * comparing our SVM and CNN models in terms of word 
+    * comparing our SVM and CNN models in terms of word relevance
 
 ---
 ### Contributors: 
@@ -75,7 +75,10 @@ Note: images don't show on github because of `\`.
 ---
 ### Links:
 
-
+* [Convolutional Neural Networks for Text](https://lena-voita.github.io/nlp_course/models/convolutional.html)
+* [A Comprehensive Guide to Convolutional Neural Networks](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+* [Convolutional Neural Networks (CNNs / ConvNets)](https://cs231n.github.io/convolutional-networks/)
+* [How ReLU and Dropout Layers Work in CNNs](https://www.baeldung.com/cs/ml-relu-dropout-layers)
 * [The Illustrated Word2vec](https://jalammar.github.io/illustrated-word2vec/)
 * [An Essential Guide to Pretrained Word Embeddings for NLP Practitioners](https://www.analyticsvidhya.com/blog/2020/03/pretrained-word-embeddings-nlp/)
 * [Implementing Deep Learning Methods and Feature Engineering for Text Data: The Continuous Bag of Words (CBOW)](https://www.kdnuggets.com/2018/04/implementing-deep-learning-methods-feature-engineering-text-data-cbow.html)
